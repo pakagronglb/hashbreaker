@@ -2,7 +2,9 @@
 
 HashBreaker is a powerful yet user-friendly tool designed to crack hashed passwords. It supports various techniques including brute force, dictionary attacks, and rule-based attacks, providing a comprehensive solution for password recovery and security testing.
 
-![HashBreaker Screenshot](docs/screenshot.png)
+
+<img width="908" alt="Screenshot 2025-04-19 at 19 49 49" src="https://github.com/user-attachments/assets/d646d75a-f357-4867-a35a-8bdc3d90291b" />
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -108,6 +110,9 @@ This tab allows you to crack a single password hash using various methods.
 
 This tab allows you to process multiple hashes simultaneously.
 
+<img width="909" alt="Screenshot 2025-04-19 at 19 50 38" src="https://github.com/user-attachments/assets/b7567616-a23a-44b4-ac9a-a6ede408ace1" />
+
+
 ### Batch Hash Input
 
 - **Input Area**: Enter one hash per line
@@ -169,6 +174,9 @@ Displays a table of existing rainbow tables with:
 - **Length**: Password length range
 - **Size**: File size of the table
 
+<img width="909" alt="Screenshot 2025-04-19 at 19 51 43" src="https://github.com/user-attachments/assets/44afd5f0-9c9c-4284-a6df-9a057cf88a43" />
+
+
 ### Rainbow Table Lookup
 
 - **Hash to Lookup**: Enter a hash to search in the tables
@@ -199,6 +207,9 @@ This tab allows you to create hashes from passwords and verify hash values.
   - HMAC-SHA256
 - **Salt**: Enter a salt value (for salted hash types) or use "Random"
 - **Generate Hash**: Create the hash
+
+<img width="909" alt="Screenshot 2025-04-19 at 19 52 11" src="https://github.com/user-attachments/assets/76c3e6b3-5500-4c27-8a4c-4f51bd3b7400" />
+
 
 ### Hash Output
 
